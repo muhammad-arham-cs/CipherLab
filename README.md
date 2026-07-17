@@ -61,6 +61,4 @@ pytest test_ciphers.py -v
 
 CipherLab is intended for education, demonstration, and analysis only. It is not a production encryption system.
 
-## Author
 
-Muhammad Arham (DUET Karachi) - DecodeLabs Project 2
